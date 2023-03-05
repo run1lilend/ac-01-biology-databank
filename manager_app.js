@@ -16,7 +16,7 @@ const periodic_table = require("./periodic_table.json")
 const proteins = require("./databank/proteins.json")
 
 
-console.log("AB-01 (EVETRA Biology Database) starting.")
+console.log("AC-01 (EVETRA Biology Database) starting.")
 
 function helpcommand() {
     console.log(`"/help" for commands.`)
