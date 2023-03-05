@@ -1,0 +1,29 @@
+{
+    "sodium_chloride": {
+        "name": "Sodium Chloride",
+        "chemical_formula": "NaCl",
+        "molecular_weight": 58.44,
+        "density": 2.16,
+        "melting_point": 801,
+        "boiling_point": 1413,
+        "solubility_in_water": "360 g/L"
+    },
+    "iron_oxide": {
+        "name": "Iron Oxide",
+        "chemical_formula": "Fe₂O₃",
+        "molecular_weight": 159.69,
+        "density": 5.24,
+        "melting_point": 1565,
+        "boiling_point": null,
+        "solubility_in_water": "0.0002 g/L"
+    },
+    "potassium_nitrate": {
+        "name": "Potassium Nitrate",
+        "chemical_formula": "KNO₃",
+        "molecular_weight": 101.11,
+        "density": 2.11,
+        "melting_point": 334,
+        "boiling_point": 400,
+        "solubility_in_water": "38.2 g/L"
+    }
+}

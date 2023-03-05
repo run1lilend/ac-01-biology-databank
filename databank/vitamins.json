@@ -1,0 +1,306 @@
+{
+    "vitamin_a": {
+        "name": "Vitamin A",
+        "other_names": [
+            "Retinol",
+            "Beta-Carotene"
+        ],
+        "solubility": "Fat-soluble",
+        "sources": [
+            "Liver",
+            "Sweet Potatoes",
+            "Carrots"
+        ],
+        "functions": [
+            "Promotes good vision",
+            "Supports immune system",
+            "Maintains healthy skin and mucous membranes"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "900 μg/day",
+            "adult_female": "700 μg/day",
+            "pregnant_female": "770 μg/day",
+            "lactating_female": "1300 μg/day"
+        }
+    },
+    "vitamin_b1": {
+        "name": "Vitamin B1",
+        "other_names": [
+            "Thiamine"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Whole Grains",
+            "Meat",
+            "Legumes"
+        ],
+        "functions": [
+            "Helps convert food into energy",
+            "Supports nerve and muscle function"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "1.2 mg/day",
+            "adult_female": "1.1 mg/day",
+            "pregnant_female": "1.4 mg/day",
+            "lactating_female": "1.5 mg/day"
+        }
+    },
+    "vitamin_b2": {
+        "name": "Vitamin B2",
+        "other_names": [
+            "Riboflavin"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Milk",
+            "Eggs",
+            "Leafy Greens"
+        ],
+        "functions": [
+            "Helps convert food into energy",
+            "Supports eye and skin health"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "1.3 mg/day",
+            "adult_female": "1.1 mg/day",
+            "pregnant_female": "1.4 mg/day",
+            "lactating_female": "1.6 mg/day"
+        }
+    },
+    "vitamin_b3": {
+        "name": "Vitamin B3",
+        "other_names": [
+            "Niacin"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Meat",
+            "Fish",
+            "Peanuts"
+        ],
+        "functions": [
+            "Helps convert food into energy",
+            "Supports skin and nerve health"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "16 mg/day",
+            "adult_female": "14 mg/day",
+            "pregnant_female": "18 mg/day",
+            "lactating_female": "17 mg/day"
+        }
+    },
+    "vitamin_b5": {
+        "name": "Vitamin B5",
+        "other_names": [
+            "Pantothenic Acid"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Meat",
+            "Whole Grains",
+            "Mushrooms"
+        ],
+        "functions": [
+            "Helps convert food into energy",
+            "Supports skin and hair health"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "5 mg/day",
+            "adult_female": "5 mg/day",
+            "pregnant_female": "6 mg/day",
+            "lactating_female": "7 mg/day"
+        }
+    },
+    "vitamin_b6": {
+        "name": "Vitamin B6",
+        "other_names": [
+            "Pyridoxine",
+            "Pyridoxal",
+            "Pyridoxamine"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Poultry",
+            "Fish",
+            "Organ meats",
+            "Whole grains",
+            "Bananas"
+        ],
+        "functions": [
+            "Helps produce neurotransmitters",
+            "Supports immune system function",
+            "Helps regulate homocysteine levels"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "1.3-1.7 mg/day",
+            "adult_female": "1.3-1.5 mg/day",
+            "pregnant_female": "1.9 mg/day",
+            "lactating_female": "2.0 mg/day"
+        }
+    },
+    "vitamin_b7": {
+        "name": "Vitamin B7",
+        "other_names": [
+            "Biotin",
+            "Vitamin H"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Egg yolks",
+            "Liver",
+            "Nuts",
+            "Whole grains"
+        ],
+        "functions": [
+            "Helps metabolize fats, carbohydrates, and proteins",
+            "Supports skin, hair, and nail health"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "30 mcg/day",
+            "adult_female": "30 mcg/day",
+            "pregnant_female": "30 mcg/day",
+            "lactating_female": "35 mcg/day"
+        }
+    },
+    "vitamin_b9": {
+        "name": "Vitamin B9",
+        "other_names": [
+            "Folic Acid",
+            "Folate"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Leafy green vegetables",
+            "Citrus fruits",
+            "Legumes"
+        ],
+        "functions": [
+            "Helps produce and maintain new cells",
+            "Supports DNA and RNA synthesis",
+            "Supports fetal development"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "400 mcg/day",
+            "adult_female": "400 mcg/day",
+            "pregnant_female": "600-800 mcg/day",
+            "lactating_female": "500 mcg/day"
+        }
+    },
+    "vitamin_b12": {
+        "name": "Vitamin B12",
+        "other_names": [
+            "Cobalamin"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Animal products",
+            "Fortified foods",
+            "Supplements"
+        ],
+        "functions": [
+            "Helps produce red blood cells",
+            "Supports nerve cell function",
+            "Helps convert food into energy"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "2.4 mcg/day",
+            "adult_female": "2.4 mcg/day",
+            "pregnant_female": "2.6 mcg/day",
+            "lactating_female": "2.8 mcg/day"
+        }
+    },
+    "vitamin_c": {
+        "name": "Vitamin C",
+        "other_names": [
+            "Ascorbic Acid"
+        ],
+        "solubility": "Water-soluble",
+        "sources": [
+            "Citrus fruits",
+            "Berries",
+            "Peppers",
+            "Broccoli"
+        ],
+        "functions": [
+            "Antioxidant",
+            "Supports immune system function",
+            "Supports collagen production"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "90 mg/day",
+            "adult_female": "75 mg/day",
+            "pregnant_female": "85 mg/day",
+            "lactating_female": "120 mg/day"
+        }
+    },
+    "vitamin_d": {
+        "name": "Vitamin D",
+        "other_names": [
+            "Calciferol"
+        ],
+        "solubility": "Fat-soluble",
+        "sources": [
+            "Sunlight",
+            "Fatty fish",
+            "Fortified foods",
+            "Supplements"
+        ],
+        "functions": [
+            "Helps regulate calcium and phosphorus absorption",
+            "Supports bone health",
+            "Supports immune system function"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "15 mcg/day",
+            "adult_female": "15 mcg/day",
+            "pregnant_female": "15 mcg/day",
+            "lactating_female": "15 mcg/day"
+        }
+    },
+    "vitamin_e": {
+        "name": "Vitamin E",
+        "other_names": [
+            "Tocopherol"
+        ],
+        "solubility": "Fat-soluble",
+        "sources": [
+            "Nuts",
+            "Seeds",
+            "Leafy green vegetables"
+        ],
+        "functions": [
+            "Antioxidant",
+            "Supports immune system function",
+            "Supports skin and eye health"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "15 mg/day",
+            "adult_female": "15 mg/day",
+            "pregnant_female": "15 mg/day",
+            "lactating_female": "19 mg/day"
+        }
+    },
+    "vitamin_k": {
+        "name": "Vitamin K",
+        "other_names": [
+            "Phylloquinone",
+            "Menadione"
+        ],
+        "solubility": "Fat-soluble",
+        "sources": [
+            "Leafy green vegetables",
+            "Vegetable oils",
+            "Egg yolks"
+        ],
+        "functions": [
+            "Supports blood clotting",
+            "Promotes bone health"
+        ],
+        "recommended_daily_intake": {
+            "adult_male": "120 mcg/day",
+            "adult_female": "90 mcg/day",
+            "pregnant_female": "90 mcg/day",
+            "lactating_female": "90 mcg/day"
+        }
+    }
+}

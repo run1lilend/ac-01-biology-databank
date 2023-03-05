@@ -1,0 +1,32 @@
+{
+    "catalase": {
+        "name": "Catalase",
+        "enzyme_class": "Oxidoreductase",
+        "reaction_catalyzed": "2 H2O2 → 2 H2O + O2",
+        "substrates": ["Hydrogen Peroxide"],
+        "products": ["Water", "Oxygen"],
+        "optimal_ph": 7,
+        "optimal_temperature": "37°C",
+        "sources": ["Liver", "Potato", "Yeast"]
+    },
+    "amylase": {
+        "name": "Amylase",
+        "enzyme_class": "Hydrolase",
+        "reaction_catalyzed": "Starch + H2O → Maltose",
+        "substrates": ["Starch"],
+        "products": ["Maltose"],
+        "optimal_ph": 6.7,
+        "optimal_temperature": "37°C",
+        "sources": ["Saliva", "Pancreas"]
+    },
+    "lipase": {
+        "name": "Lipase",
+        "enzyme_class": "Hydrolase",
+        "reaction_catalyzed": "Triacylglycerol + H2O → Diacylglycerol + Free Fatty Acid",
+        "substrates": ["Triacylglycerol"],
+        "products": ["Diacylglycerol", "Free Fatty Acid"],
+        "optimal_ph": 7,
+        "optimal_temperature": "37°C",
+        "sources": ["Pancreas"]
+    }
+}

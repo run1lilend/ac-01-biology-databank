@@ -1,0 +1,32 @@
+{
+    "escherichia_coli": {
+        "name": "Escherichia Coli",
+        "type": "bacteria",
+        "function": "Aids in digestion and vitamin synthesis",
+        "organelles": [
+            "Cell wall",
+            "Plasma membrane",
+            "Flagellum"
+        ]
+    },
+    "choloroplast": {
+        "name": "Chloroplast",
+        "type": "plant",
+        "function": "Site of photosynthesis",
+        "organelles": [
+            "Thylakoid",
+            "Stroma",
+            "Granum"
+        ]
+    },
+    "red_blood_cell": {
+        "name": "Red Blood Cell",
+        "type": "animal",
+        "function": "Carries oxygen throughout the body",
+        "organelles": [
+            "Plasma membrane",
+            "Cytoplasm",
+            "Hemoglobin"
+        ]
+    }
+}

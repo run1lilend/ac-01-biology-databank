@@ -1,0 +1,14 @@
+{
+    "DNA":{
+        "sequence": "ATCGATCGATCG",
+        "description": "Sample DNA sequence",
+        "length": 12,
+        "gc_content": 0.5
+    },
+    "RNA": {
+        "sequence": "AUCGAUCGAUCG",
+        "description": "Sample RNA sequence",
+        "length": 12,
+        "gc_content": 0.25
+      }
+}

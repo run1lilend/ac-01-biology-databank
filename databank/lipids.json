@@ -1,0 +1,26 @@
+{
+    "phospholipids":{
+        "name": "Phospholipids",
+        "definition": "A type of lipid that consists of a glycerol molecule attached to two fatty acid chains and a phosphate molecule. It is a basic component of cell membranes.",
+        "function": "Regulates the structure and functions of cell membranes",
+        "examples": ["Lecithin", "Sphingomyelin"]
+    },
+    "steroids":{
+        "name": "Steroids",
+        "definition": "A type of lipid that has a structure consisting of four rings. It is found in the structure of hormones such as cholesterol, testosterone, and estrogen.",
+        "function": "Regulates the structure and functions of hormones",
+        "examples": ["Cholesterol", "Estrogen"]
+        },
+        "triglycerides":{
+        "name": "Triglycerides",
+        "definition": "A type of lipid that consists of a glycerol molecule attached to three fatty acid chains. Fats and adipose tissue are composed of this type of lipid.",
+        "function": "Provides energy storage and thermal insulation",
+        "examples": ["Fats", "Cholesterol esters"]
+        },
+        "chlosterol":{
+        "name": "Cholesterol",
+        "definition": "A type of steroid lipid that is found in the structure of cell membranes and some hormones.",
+        "function": "Provides flexibility to the fluid barrier of cell membranes",
+        "examples": ["Cholesterol"]
+        }
+  } 

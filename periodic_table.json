@@ -1,0 +1,650 @@
+{
+    "hydrogen": {
+        "name": "Hydrogen",
+        "symbol": "H",
+        "weight": "1.008 g/mol",
+        "energy-level": "1st energy level (1s)",
+        "melting-point": "−259.14 °C",
+        "boiling-point": "−252.87 °C"
+    },
+    "helium": {
+        "name": "Helium",
+        "symbol": "He",
+        "weight": "4.003 g/mol",
+        "energy-level": "1st energy level (1s)",
+        "melting-point": "−268.928 °C",
+        "boiling-point": "−268.928 °C"
+    },
+    "lithium": {
+        "name": "Lithium",
+        "symbol": "Li",
+        "weight": "6.94 g/mol",
+        "energy-level": "2nd energy level (2s)",
+        "melting-point": "180.54 °C",
+        "boiling-point": "1347 °C"
+    },
+    "beryllium": {
+        "name": "Beryllium",
+        "symbol": "Be",
+        "weight": "9.0122 g/mol",
+        "energy-level": "2nd energy level (2s)",
+        "melting-point": "1278 °C",
+        "boiling-point": "2970 °C"
+    },
+    "boron": {
+        "name": "Boron",
+        "symbol": "B",
+        "weight": "10.81 g/mol",
+        "energy-level": "2nd energy level (2p)",
+        "melting-point": "2075 °C",
+        "boiling-point": "3927 °C"
+    },
+    "carbon": {
+        "name": "Carbon",
+        "symbol": "C",
+        "weight": "12.01 g/mol",
+        "energy-level": "2nd energy level (2p)",
+        "melting-point": "3800.0 °C",
+        "boiling-point": "4300.0 °C"
+    },
+    "nitrogen": {
+        "name": "Nitrogen",
+        "symbol": "N",
+        "weight": "14.01 g/mol",
+        "energy-level": "2nd energy level (2p)",
+        "melting-point": "−209.9 °C",
+        "boiling-point": "−195.8 °C"
+    },
+    "oxygen": {
+        "name": "Oxygen",
+        "symbol": "O",
+        "weight": "16.00 g/mol",
+        "energy-level": "2nd energy level (2p)",
+        "melting-point": "−218.8 °C",
+        "boiling-point": "−183.0 °C"
+    },
+    "fluorine": {
+        "name": "Fluorine",
+        "symbol": "F",
+        "weight": "19.00 g/mol",
+        "energy-level": "2nd energy level (2p)",
+        "melting-point": "−219.62 °C",
+        "boiling-point": "−188.14 °C"
+    },
+    "neon": {
+        "name": "Neon",
+        "symbol": "Ne",
+        "weight": "20.18 g/mol",
+        "energy-level": "2nd energy level (2p)",
+        "melting-point": "−248.59 °C",
+        "boiling-point": "−246.046 °C"
+    },
+    "sodium": {
+        "name": "Sodium",
+        "symbol": "Na",
+        "weight": "22.99 g/mol",
+        "energy-level": "3rd energy level (3s)",
+        "melting-point": "97.867 °C",
+        "boiling-point": "883 °C"
+    },
+    "magnesium": {
+        "name": "Magnesium",
+        "symbol": "Mg",
+        "weight": "24.31 g/mol",
+        "energy-level": "3rd energy level (3s)",
+        "melting-point": "650 °C",
+        "boiling-point": "1090 °C"
+    },
+    "aluminum": {
+        "name": "Aluminum",
+        "symbol": "Al",
+        "weight": "26.98 g/mol",
+        "energy-level": "3rd energy level (3p)",
+        "melting-point": "660.37 °C",
+        "boiling-point": "2467 °C"
+    },
+    "silicon": {
+        "name": "Silicon",
+        "symbol": "Si",
+        "weight": "28.09 g/mol",
+        "energy-level": "3rd energy level (3p)",
+        "melting-point": "1414 °C",
+        "boiling-point": "2355 °C"
+    },
+    "phosphorus": {
+        "name": "Phosphorus",
+        "symbol": "P",
+        "weight": "30.97 g/mol",
+        "energy-level": "3rd energy level (3p)",
+        "melting-point": "44.1 °C",
+        "boiling-point": "280 °C"
+    },
+    "sulfur": {
+        "name": "Sulfur",
+        "symbol": "S",
+        "weight": "32.06 g/mol",
+        "energy-level": "3rd energy level (3p)",
+        "melting-point": "112.8 °C",
+        "boiling-point": "444.6 °C"
+    },
+    "chlorine": {
+        "name": "Chlorine",
+        "symbol": "Cl",
+        "weight": "35.45 g/mol",
+        "energy-level": "3rd energy level (3p)",
+        "melting-point": "−101.5 °C",
+        "boiling-point": "−34.04 °C"
+    },
+    "argon": {
+        "name": "Argon",
+        "symbol": "Ar",
+        "weight": "39.948 g/mol",
+        "energy-level": "3rd energy level (3p)",
+        "melting-point": "−189.3 °C",
+        "boiling-point": "−185.9 °C"
+    },
+    "potassium": {
+        "name": "Potassium",
+        "symbol": "K",
+        "weight": "39.10 g/mol",
+        "energy-level": "4th energy level (4s)",
+        "melting-point": "63.38 °C",
+        "boiling-point": "759 °C"
+    },
+    "calcium": {
+        "name": "Calcium",
+        "symbol": "Ca",
+        "weight": "40.08 g/mol",
+        "energy-level": "4th energy level (4s)",
+        "melting-point": "842 °C",
+        "boiling-point": "1484 °C"
+    },
+    "scandium": {
+        "name": "Scandium",
+        "symbol": "Sc",
+        "weight": "44.96 g/mol",
+        "energy-level": "3d",
+        "melting-point": "1541 °C",
+        "boiling-point": "2836 °C"
+    },
+    "titanium": {
+        "name": "Titanium",
+        "symbol": "Ti",
+        "weight": "47.87 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1668 °C",
+        "boiling-point": "3287 °C"
+    },
+    "vanadium": {
+        "name": "Vanadium",
+        "symbol": "V",
+        "weight": "50.94 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1910 °C",
+        "boiling-point": "3407 °C"
+    },
+    "chromium": {
+        "name": "Chromium",
+        "symbol": "Cr",
+        "weight": "51.99 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1857 °C",
+        "boiling-point": "2671 °C"
+    },
+    "manganese": {
+        "name": "Manganese",
+        "symbol": "Mn",
+        "weight": "54.94 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1246 °C",
+        "boiling-point": "1962 °C"
+    },
+    "iron": {
+        "name": "Iron",
+        "symbol": "Fe",
+        "weight": "55.85 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1538 °C",
+        "boiling-point": "2750 °C"
+    },
+    "cobalt": {
+        "name": "Cobalt",
+        "symbol": "Co",
+        "weight": "58.93 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1495 °C",
+        "boiling-point": "2927 °C"
+    },
+    "nickel": {
+        "name": "Nickel",
+        "symbol": "Ni",
+        "weight": "58.69 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1455 °C",
+        "boiling-point": "2927 °C"
+    },
+    "copper": {
+        "name": "Copper",
+        "symbol": "Cu",
+        "weight": "63.55 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "1083.4 °C",
+        "boiling-point": "2567 °C"
+    },
+    "zinc": {
+        "name": "Zinc",
+        "symbol": "Zn",
+        "weight": "65.38 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "419.58 °C",
+        "boiling-point": "907 °C"
+    },
+    "gallium": {
+        "name": "Gallium",
+        "symbol": "Ga",
+        "weight": "69.72 g/mol",
+        "energy-level": "4th energy level (3d)",
+        "melting-point": "29.76 °C",
+        "boiling-point": "2204 °C"
+    },
+    "germanium": {
+        "name": "Germanium",
+        "symbol": "Ge",
+        "weight": "72.63 g/mol",
+        "energy-level": "4th energy level (4p)",
+        "melting-point": "938.3 °C",
+        "boiling-point": "2833 °C"
+    },
+    "arsenic": {
+        "name": "Arsenic",
+        "symbol": "As",
+        "weight": "74.92 g/mol",
+        "energy-level": "4th energy level (4p)",
+        "melting-point": "817 °C",
+        "boiling-point": "613 °C"
+    },
+    "selenium": {
+        "name": "Selenium",
+        "symbol": "Se",
+        "weight": "78.96 g/mol",
+        "energy-level": "4th energy level (4p)",
+        "melting-point": "221 °C",
+        "boiling-point": "685 °C"
+    },
+    "bromine": {
+        "name": "Bromine",
+        "symbol": "Br",
+        "weight": "79.90 g/mol",
+        "energy-level": "4th energy level (4p)",
+        "melting-point": "-7.2 °C",
+        "boiling-point": "59.8 °C"
+    },
+    "krypton": {
+        "name": "Krypton",
+        "symbol": "Kr",
+        "weight": "83.80 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "-157.2 °C",
+        "boiling-point": "-153.2 °C"
+    },
+    "rubidium": {
+        "name": "Rubidium",
+        "symbol": "Rb",
+        "weight": "85.47 g/mol",
+        "energy-level": "5th energy level (5s)",
+        "melting-point": "39.3 °C",
+        "boiling-point": "688 °C"
+    },
+    "strontium": {
+        "name": "Strontium",
+        "symbol": "Sr",
+        "weight": "87.62 g/mol",
+        "energy-level": "5th energy level (5p)",
+        "melting-point": "769 °C",
+        "boiling-point": "1384 °C"
+    },
+    "yttrium": {
+        "name": "Yttrium",
+        "symbol": "Y",
+        "weight": "88.91 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "1522 °C",
+        "boiling-point": "3335 °C"
+    },
+    "zirconium": {
+        "name": "Zirconium",
+        "symbol": "Zr",
+        "weight": "91.22 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "1852 °C",
+        "boiling-point": "4377 °C"
+    },
+    "niobium": {
+        "name": "Niobium",
+        "symbol": "Nb",
+        "weight": "92.91 g/mol",
+        "energy-level": "5th energy level (5d)",
+        "melting-point": "2477 °C",
+        "boiling-point": "4744 °C"
+    },
+    "molybdenum": {
+        "name": "Molybdenum",
+        "symbol": "Mo",
+        "weight": "95.94 g/mol",
+        "energy-level": "5th energy level (5d)",
+        "melting-point": "2617 °C",
+        "boiling-point": "4612 °C"
+    },
+    "technetium": {
+        "name": "Technetium",
+        "symbol": "Tc",
+        "weight": "98 g/mol",
+        "energy-level": "7th energy level (5f)",
+        "melting-point": "2157 °C",
+        "boiling-point": "4265 °C"
+    },
+    "ruthenium": {
+        "name": "Ruthenium",
+        "symbol": "Ru",
+        "weight": "101.1 g/mol",
+        "energy-level": "5th energy level (5d)",
+        "melting-point": "2310 °C",
+        "boiling-point": "3900 °C"
+    },
+    "rhodium": {
+        "name": "Rhodium",
+        "symbol": "Rh",
+        "weight": "102.9055 g/mol",
+        "energy-level": "5th energy level (5d)",
+        "melting-point": "1966 °C",
+        "boiling-point": "3727 °C"
+    },
+    "palladium": {
+        "name": "Palladium",
+        "symbol": "Pd",
+        "weight": "106.42 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "1554.9 °C",
+        "boiling-point": "2963 °C"
+    },
+    "silver": {
+        "name": "Silver",
+        "symbol": "Ag",
+        "weight": "107.87 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "961.78 °C",
+        "boiling-point": "2212 °C"
+    },
+    "cadmium": {
+        "name": "Cadmium",
+        "symbol": "Cd",
+        "weight": "112.411 g/mol",
+        "energy-level": "5th energy level (5s)",
+        "melting-point": "321.07 °C",
+        "boiling-point": "766 °C"
+    },
+    "indium": {
+        "name": "Indium",
+        "symbol": "In",
+        "weight": "114.82 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "156.61 °C",
+        "boiling-point": "2072 °C"
+    },
+    "tin": {
+        "name": "Tin",
+        "symbol": "Sn",
+        "weight": "118.71 g/mol",
+        "energy-level": "5th energy level (5p)",
+        "melting-point": "231.93 °C",
+        "boiling-point": "2270 °C"
+    },
+    "antimony": {
+        "name": "Antimony",
+        "symbol": "Sb",
+        "weight": "121.76 g/mol",
+        "energy-level": "5th energy level (5p)",
+        "melting-point": "630.63 °C",
+        "boiling-point": "1587 °C"
+    },
+    "tellurium": {
+        "name": "Tellurium",
+        "symbol": "Te",
+        "weight": "127.60 g/mol",
+        "energy-level": "5th energy level (5p)",
+        "melting-point": "449.51 °C",
+        "boiling-point": "982 °C"
+    },
+    "iodine": {
+        "name": "Iodine",
+        "symbol": "I",
+        "weight": "126.90447 g/mol",
+        "energy-level": "5th energy level (5p)",
+        "melting-point": "113.7 °C",
+        "boiling-point": "184.3 °C"
+    },
+    "xenon": {
+        "name": "Xenon",
+        "symbol": "Xe",
+        "weight": "131.293 g/mol",
+        "energy-level": "5th energy level (5p)",
+        "melting-point": "-111.9 °C",
+        "boiling-point": "-108.1 °C"
+    },
+    "cesium": {
+        "name": "Cesium",
+        "symbol": "Cs",
+        "weight": "132.9054519 g/mol",
+        "energy-level": "6th energy level (6s)",
+        "melting-point": "28.4 °C",
+        "boiling-point": "678.8 °C"
+    },
+    "barium": {
+        "name": "Barium",
+        "symbol": "Ba",
+        "weight": "137.327 g/mol",
+        "energy-level": "6th energy level (6s)",
+        "melting-point": "727 °C",
+        "boiling-point": "1845 °C"
+    },
+    "lanthanum": {
+        "name": "Lanthanum",
+        "symbol": "La",
+        "weight": "138.90547 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "920 °C",
+        "boiling-point": "3464 °C"
+    },
+    "cerium": {
+        "name": "Cerium",
+        "symbol": "Ce",
+        "weight": "140.116 g/mol",
+        "energy-level": "6th energy level (4f)",
+        "melting-point": "798 °C",
+        "boiling-point": "3443 °C"
+    },
+    "praseodymium": {
+        "name": "Praseodymium",
+        "symbol": "Pr",
+        "weight": "140.90765 g/mol",
+        "energy-level": "6th energy level (4f)",
+        "melting-point": "935 °C",
+        "boiling-point": "3130 °C"
+    },
+    "neodymium": {
+        "name": "Neodymium",
+        "symbol": "Nd",
+        "weight": "144.242 g/mol",
+        "energy-level": "6th energy level (4f)",
+        "melting-point": "1024 °C",
+        "boiling-point": "3074 °C"
+    },
+    "promethium": {
+        "name": "Promethium",
+        "symbol": "Pm",
+        "weight": "145 g/mol",
+        "energy-level": "5f",
+        "melting-point": "1100 °C",
+        "boiling-point": "1800 °C"
+    },
+    "samarium": {
+        "name": "Samarium",
+        "symbol": "Sm",
+        "weight": "150.36 g/mol",
+        "energy-level": "4f",
+        "melting-point": "1072 °C",
+        "boiling-point": "1794 °C"
+    },
+    "europium": {
+        "name": "Europium",
+        "symbol": "Eu",
+        "weight": "151.96 g/mol",
+        "energy-level": "4f",
+        "melting-point": "822 °C",
+        "boiling-point": "1597 °C"
+    },
+    "gadolinium": {
+        "name": "Gadolinium",
+        "symbol": "Gd",
+        "weight": "157.25 g/mol",
+        "energy-level": "4f",
+        "melting-point": "1313 °C",
+        "boiling-point": "3233 °C"
+    },
+    "terbium": {
+        "name": "Terbium",
+        "symbol": "Tb",
+        "weight": "158.93 g/mol",
+        "energy-level": "4f",
+        "melting-point": "1356 °C",
+        "boiling-point": "3230 °C"
+    },
+    "dysprosium": {
+        "name": "Dysprosium",
+        "symbol": "Dy",
+        "weight": "162.50 g/mol",
+        "energy-level": "4f",
+        "melting-point": "1412 °C",
+        "boiling-point": "2562 °C"
+    },
+    "holmium": {
+        "name": "Holmium",
+        "symbol": "Ho",
+        "weight": "164.93 g/mol",
+        "energy-level": "4f",
+        "melting-point": "1470 °C",
+        "boiling-point": "2720 °C"
+    },
+    "erbium": {
+        "name": "Erbium",
+        "symbol": "Er",
+        "weight": "167.26 g/mol",
+        "energy-level": "4f",
+        "melting-point": "1522 °C",
+        "boiling-point": "2868 °C"
+    },
+    "thulium": {
+        "name": "Thulium",
+        "symbol": "Tm",
+        "weight": "168.93 g/mol",
+        "energy-level": "4th energy level (4f)",
+        "melting-point": "1545 °C",
+        "boiling-point": "1950 °C"
+    },
+    "ytterbium": {
+        "name": "Ytterbium",
+        "symbol": "Yb",
+        "weight": "173.05 g/mol",
+        "energy-level": "4th energy level (4f)",
+        "melting-point": "819 °C",
+        "boiling-point": "1466 °C"
+    },
+    "lutetium": {
+        "name": "Lutetium",
+        "symbol": "Lu",
+        "weight": "174.97 g/mol",
+        "energy-level": "4th energy level (4f)",
+        "melting-point": "1663 °C",
+        "boiling-point": "3402 °C"
+    },
+    "hafnium": {
+        "name": "Hafnium",
+        "symbol": "Hf",
+        "weight": "178.49 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "2233 °C",
+        "boiling-point": "4603 °C"
+    },
+    "tantalum": {
+        "name": "Tantalum",
+        "symbol": "Ta",
+        "weight": "180.95 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "3017 °C",
+        "boiling-point": "5458 °C"
+    },
+    "tungsten": {
+        "name": "Tungsten",
+        "symbol": "W",
+        "weight": "183.84 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "3422 °C",
+        "boiling-point": "5927 °C"
+    },
+    "rhenium": {
+        "name": "Rhenium",
+        "symbol": "Re",
+        "weight": "186.21 g/mol",
+        "energy-level": "4th energy level (4d)",
+        "melting-point": "3186 °C",
+        "boiling-point": "5627 °C"
+    },
+    "osmium": {
+        "name": "Osmium",
+        "symbol": "Os",
+        "weight": "190.23 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "3033 °C",
+        "boiling-point": "5027 °C"
+    },
+    "iridium": {
+        "name": "Iridium",
+        "symbol": "Ir",
+        "weight": "192.22 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "2410 °C",
+        "boiling-point": "4130 °C"
+    },
+    "platinum": {
+        "name": "Platinum",
+        "symbol": "Pt",
+        "weight": "195.08 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "1772 °C",
+        "boiling-point": "3827 °C"
+    },
+    "gold": {
+        "name": "Gold",
+        "symbol": "Au",
+        "weight": "197.0 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "1064.18 °C",
+        "boiling-point": "2970 °C"
+    },
+    "mercury": {
+        "name": "Mercury",
+        "symbol": "Hg",
+        "weight": "200.59 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "-38.87 °C",
+        "boiling-point": "357 °C"
+    },
+    "thallium": {
+        "name": "Thallium",
+        "symbol": "Tl",
+        "weight": "204.38 g/mol",
+        "energy-level": "6th energy level (5d)",
+        "melting-point": "304.0 °C",
+        "boiling-point": "1473 °C"
+    }
+}

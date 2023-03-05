@@ -1,0 +1,29 @@
+{
+    "ethanol": {
+        "name": "Ethanol",
+        "chemical_formula": "C₂H₆O",
+        "molecular_weight": 46.07,
+        "density": 0.789,
+        "melting_point": -114.1,
+        "boiling_point": 78.4,
+        "solubility_in_water": "miscible"
+    },
+    "acetic_acid": {
+        "name": "Acetic Acid",
+        "chemical_formula": "CH₃COOH",
+        "molecular_weight": 60.05,
+        "density": 1.049,
+        "melting_point": 16.6,
+        "boiling_point": 118.1,
+        "solubility_in_water": "miscible"
+    },
+    "benzene": {
+        "name": "Benzene",
+        "chemical_formula": "C₆H₆",
+        "molecular_weight": 78.11,
+        "density": 0.879,
+        "melting_point": 5.5,
+        "boiling_point": 80.1,
+        "solubility_in_water": "0.08 g/L"
+    }
+}
