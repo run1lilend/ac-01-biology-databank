@@ -52,7 +52,7 @@ function helpcommand() {
         console.log(periodic_table)
       }
       else if (answer == "show proteins") {
-        console.log(periodic_table)
+        console.log(proteins)
       }
       else if (answer == "help") {
         console.log('\x1b[32m%s\x1b[0m', `
